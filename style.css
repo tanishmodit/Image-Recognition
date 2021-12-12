@@ -1,0 +1,27 @@
+body{
+
+    color:white;
+    background-color: darkturquoise;
+
+}
+
+.heading {
+
+    width:80%;
+    font-size: 22px;
+
+
+
+}
+
+.name_objects,#result_name,#result_accuracy{
+
+    color:white;
+
+}
+#camera{
+
+    border: 2px dashed black;
+    width:350px;
+    height:300px;
+  }
